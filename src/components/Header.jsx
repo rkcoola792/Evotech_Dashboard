@@ -4,16 +4,16 @@ const Header = () => {
   return (
     <div className="h-32 w-full">
       <div className="upper-container flex justify-end mr-8 gap-4 mt-4">
-        <img src="src/assets/Search.png" className="object-contain" alt="" />
-        <img src="src/assets/Compiling.png" alt="" className="object-contain" />
+        <img src="public/assets/Search.png" className="object-contain" alt="" />
+        <img src="public/assets/Compiling.png" alt="" className="object-contain" />
         <img
-          src="src/assets/Equalizer (2).png"
+          src="public/assets/Equalizer (2).png"
           alt=""
           className="object-contain"
         />
-        <img src="src/assets/Cart.png" alt="" className="object-contain" />
+        <img src="public/assets/Cart.png" alt="" className="object-contain" />
         <img
-          src="src/assets/Layout-4-blocks (2).png"
+          src="public/assets/Layout-4-blocks (2).png"
           alt=""
           className="object-contain"
         />
@@ -58,7 +58,7 @@ const Header = () => {
           <p className="p-2 px-4 rounded-md" style={{  backgroundColor: "#F3F6F9",color: "#959CB6", fontWeight: 500 }}>
             Actions
           </p>
-          <img src="src/assets/File Plus icon.png" alt="" />
+          <img src="public/assets/File Plus icon.png" alt="" />
         </div>
       </div>
     </div>

@@ -1,10 +1,12 @@
 import React from 'react'
 import Category from './elements/Category';
 import Gifts from './elements/Gifts';
+import SalesProgress from './elements/SalesProgress';
+import NewArrivals from './elements/NewArrivals';
 
 const Body = () => {
   return (
-    <div className="pt-4 bg-slate-100 mt-4 h-screen ml-80">
+    <div className="pt-4 bg-slate-100 mt-4 h-full ml-80 pb-6">
       <div className="top-container h-[400px] w-full  flex">
         <div className="left-div  p-4 w-[70%] ">
           <div className="top  p-2 h-2/6 flex gap-8">
@@ -45,10 +47,16 @@ const Body = () => {
           <Gifts img="src/assets/abs025.png" name="Great Gifts"></Gifts>
           <Gifts img="src/assets/ecm002.png" name="Great Gifts"></Gifts>
           <Gifts img="src/assets/gen002.png" name="Great Gifts"></Gifts>
-         
         </div>
       </div>
-      <div className="mid-container"></div>
+      <div className="mid-container flex px-4">
+        <div className="left w-[35%] pl-2 pt-4 rounded-lg">
+          <SalesProgress></SalesProgress>
+        </div>
+        <div className="right w-[70%] p-4">
+          <NewArrivals></NewArrivals>
+        </div>
+      </div>
       <div className="bottom-container"></div>
     </div>
   );

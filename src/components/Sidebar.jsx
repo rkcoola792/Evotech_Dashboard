@@ -9,7 +9,7 @@ const Sidebar = () => {
       >
         Dashboard
         <span>
-          <img src="public/assets/Arrow double left active.png" alt="" className='ml-[75px] mr-8' />
+          <img src="public/Arrow double left active.png" alt="" className='ml-[75px] mr-8' />
         </span>
       </h1>
       <p
@@ -17,7 +17,7 @@ const Sidebar = () => {
         style={{ backgroundColor: "#1B1B28" }}
       >
         <span>
-          <img src="public/assets/Layers.png" alt="" />
+          <img src="public/Layers.png" alt="" />
         </span>
         Dashboard
       </p>
@@ -29,11 +29,11 @@ const Sidebar = () => {
       </p>
       <p className="text-white h-[52px] mt-8 flex text-[14px] justify-start ml-6 gap-2 items-center">
         <span>
-          <img src="public/assets/Layers.png" alt="" />
+          <img src="public/Layers.png" alt="" />
         </span>
         Applications
         <span>
-          <img src="public/assets/Path 94.png" alt="" className="ml-[120px]" />
+          <img src="public/Path 94.png" alt="" className="ml-[120px]" />
         </span>
       </p>
       <p
@@ -43,7 +43,7 @@ const Sidebar = () => {
         -&nbsp;&nbsp; Users{" "}
         <span>
           <img
-            src="public/assets/Path 94.png"
+            src="public/Path 94.png"
             alt=""
             className="opacity-40 -rotate-90"
           />
@@ -56,7 +56,7 @@ const Sidebar = () => {
         -&nbsp;&nbsp; Contact{" "}
         <span>
           <img
-            src="public/assets/Path 94.png"
+            src="public/Path 94.png"
             alt=""
             className="opacity-40 -rotate-90"
           />
@@ -69,7 +69,7 @@ const Sidebar = () => {
         -&nbsp;&nbsp; Chat{" "}
         <span>
           <img
-            src="public/assets/Path 94.png"
+            src="public/Path 94.png"
             alt=""
             className="opacity-40 -rotate-90"
           />
@@ -80,14 +80,14 @@ const Sidebar = () => {
         style={{ color: "#4A4B68" }}
       >
         <span>
-          <img src="public/assets/Combined Shape (1).png" alt="" className='mr-1' 
+          <img src="public/Combined Shape (1).png" alt="" className='mr-1' 
 
           />
         </span>
         Pages
         <span>
           <img
-            src="public/assets/Path 94.png"
+            src="public/Path 94.png"
             alt=""
             className="ml-[161px] -rotate-90 opacity-40"
           />

@@ -13,41 +13,41 @@ const Body = () => {
           <div className="top  p-2 h-2/6 flex gap-8">
             <Category
               name="Saas Application"
-              img="public/assets/Library.png"
+              img="public/Library.png"
             ></Category>
             <Category
               name="Main Categories"
-              img="public/assets/Layout-4-blocks.png"
+              img="public/Layout-4-blocks.png"
             ></Category>
             <Category
               name="Video Tutorials"
-              img="public/assets/Movie.png"
+              img="public/Movie.png"
             ></Category>
             <Category
               name="Sales Statistics"
-              img="public/assets/Equalizer (1).png"
+              img="public/Equalizer (1).png"
             ></Category>
             <Category
               name="Arc Security"
-              img="public/assets/Shield-check (1).png"
+              img="public/Shield-check (1).png"
             ></Category>
           </div>
           <div className="bottom  mt-8  flex h-4/6">
             <div className="left  p-2 w-1/2">
-              <img src="public/assets/Widget 1.png" alt="" />
+              <img src="public/Widget 1.png" alt="" />
             </div>
             <div className="right  p-2 w-1/2">
-              <img src="public/assets/Widget 2.png" alt="" />
+              <img src="public/Widget 2.png" alt="" />
             </div>
           </div>
         </div>
         <div className="right-div  pt-4 w-[30%] flex flex-wrap ">
-          <Gifts img="public/assets/ecm007.png" name="Great Gifts"></Gifts>
-          <Gifts img="public/assets/teh008.png" name="Great Gifts"></Gifts>
-          <Gifts img="public/assets/teh004.png" name="Great Gifts"></Gifts>
-          <Gifts img="public/assets/abs025.png" name="Great Gifts"></Gifts>
-          <Gifts img="public/assets/ecm002.png" name="Great Gifts"></Gifts>
-          <Gifts img="public/assets/gen002.png" name="Great Gifts"></Gifts>
+          <Gifts img="public/ecm007.png" name="Great Gifts"></Gifts>
+          <Gifts img="public/teh008.png" name="Great Gifts"></Gifts>
+          <Gifts img="public/teh004.png" name="Great Gifts"></Gifts>
+          <Gifts img="public/abs025.png" name="Great Gifts"></Gifts>
+          <Gifts img="public/ecm002.png" name="Great Gifts"></Gifts>
+          <Gifts img="public/gen002.png" name="Great Gifts"></Gifts>
         </div>
       </div>
       <div className="mid-container flex px-4">

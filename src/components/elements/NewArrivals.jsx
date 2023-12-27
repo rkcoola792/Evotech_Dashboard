@@ -22,33 +22,33 @@ const NewArrivals = () => {
         <NewArrivalElement
             
           name="Sant Outstanding"
-          status="public/assets/Button (5).png"
+          status="public/Button (5).png"
           amount="2,000,000"
-          img="/public/assets/184-plurk.png"
+          img="/public/184-plurk.png"
         ></NewArrivalElement>
         <NewArrivalElement
           name="Telegram Application"
-          status="public/assets/Button (1).png"
+          status="public/Button (1).png"
           amount="4,600,000"
-          img="/public/assets/186-telegram (1).png"
+          img="/public/186-telegram (1).png"
         ></NewArrivalElement>
         <NewArrivalElement
           name="Cisco Management"
-          status="public/assets/Button (2).png"
+          status="public/Button (2).png"
           amount="560,000"
-          img="/public/assets/194-puzzle.png"
+          img="/public/194-puzzle.png"
         ></NewArrivalElement>
         <NewArrivalElement
           name="HR Management"
-          status="public/assets/Button (3).png"
+          status="public/Button (3).png"
           amount="57,000"
-          img="/public/assets/182-bebo.png"
+          img="/public/182-bebo.png"
         ></NewArrivalElement>
         <NewArrivalElement
           name="KTR Mobile Application"
-          status="public/assets/Button (1).png"
+          status="public/Button (1).png"
           amount="45,200,000"
-          img="/public/assets/187-kickstarter.png"
+          img="/public/187-kickstarter.png"
         ></NewArrivalElement>
       </div>
     </div>

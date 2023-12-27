@@ -21,28 +21,28 @@ const BottomContainer = () => {
           </div>
         </div>
 
-        <img className="bg-white px-8 py-2" src="public/assets/Chart.png" alt="" />
+        <img className="bg-white px-8 py-2" src="public/Chart.png" alt="" />
       </div>
 
       <div className="right w-[40%] flex flex-wrap ml-3 mr-2">
         <img
           className="w-[150px] mx-2 mb-6 ml-4 rounded-xl"
-          src="public/assets/Cart 1.png"
+          src="public/Cart 1.png"
           alt=""
         />
         <img
           className="w-[150px] mx-2 mb-6 ml-4 rounded-xl"
-          src="public/assets/Cart 2.png"
+          src="public/Cart 2.png"
           alt=""
         />
         <img
           className="w-[150px] mx-2 rounded-xl ml-4"
-          src="public/assets/Cart 3.png"
+          src="public/Cart 3.png"
           alt=""
         />
         <img
           className="w-[150px] mx-2 rounded-xl ml-4"
-          src="public/assets/Cart 4.png"
+          src="public/Cart 4.png"
           alt=""
         />
       </div>

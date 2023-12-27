@@ -29,9 +29,9 @@ const NewArrivalElement = ({amount,img,status,name}) => {
           <img src={status} alt="" />
         </div>
         <div className="right flex gap-2 mb-1">
-          <img className="w-6" src="public/assets/Button Settings.png" alt="" />
-          <img className="w-6" src="public/assets/Button Edit.png" alt="" />
-          <img className="w-6" src="public/assets/Button Trash.png" alt="" />
+          <img className="w-6" src="public/Button Settings.png" alt="" />
+          <img className="w-6" src="public/Button Edit.png" alt="" />
+          <img className="w-6" src="public/Button Trash.png" alt="" />
         </div>
       </div>
     </div>

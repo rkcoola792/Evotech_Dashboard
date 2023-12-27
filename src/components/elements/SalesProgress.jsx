@@ -2,7 +2,7 @@
  
 const Sales =({img})=>{
     return (
-      <div className="sales-below flex gap-4 items-center ">
+      <div className="sales-below flex gap-4 items-center ml-2 ">
         <div className="img">
           <img src={img} alt="" className="w-8" />
         </div>

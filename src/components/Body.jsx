@@ -3,6 +3,7 @@ import Category from './elements/Category';
 import Gifts from './elements/Gifts';
 import SalesProgress from './elements/SalesProgress';
 import NewArrivals from './elements/NewArrivals';
+import BottomContainer from './elements/BottomContainer';
 
 const Body = () => {
   return (
@@ -57,7 +58,9 @@ const Body = () => {
           <NewArrivals></NewArrivals>
         </div>
       </div>
-      <div className="bottom-container"></div>
+
+      <div className='bottom'></div>
+      <BottomContainer></BottomContainer>
     </div>
   );
 }

@@ -10,7 +10,7 @@ function App() {
       <div className='w-[320px] h-screen'  style={{backgroundColor:"#1E1E2D"}}>
       <Sidebar />
 </div>
-      <div className='flex-'>
+      <div className='flex flex-col w-full'>
         <Header />
         <Body />
       </div>

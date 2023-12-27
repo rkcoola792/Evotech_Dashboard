@@ -4,12 +4,12 @@ const Sidebar = () => {
   return (
     <div>
       <h1
-        className="text-white font-bold text-3xl p-4 px-8 flex justify-start  gap-20 items-center "
+        className="text-white font-bold text-3xl p-4 px-8 flex justify-between items-center"
         style={{ backgroundColor: "#1B1B28" }}
       >
         Dashboard
         <span>
-          <img src="src/assets/Arrow double left active.png" alt="" />
+          <img src="src/assets/Arrow double left active.png" alt="" className='ml-12 mr-8' />
         </span>
       </h1>
       <p
@@ -33,7 +33,7 @@ const Sidebar = () => {
         </span>
         Applications
         <span>
-          <img src="src/assets/Path 94.png" alt="" className="ml-[120px]" />
+          <img src="src/assets/Path 94.png" alt="" className="ml-[100px]" />
         </span>
       </p>
       <p
@@ -89,7 +89,7 @@ const Sidebar = () => {
           <img
             src="src/assets/Path 94.png"
             alt=""
-            className="ml-[162px] -rotate-90 opacity-40"
+            className="ml-[138px] -rotate-90 opacity-40"
           />
         </span>{" "}
       </p>

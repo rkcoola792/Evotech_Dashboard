@@ -18,7 +18,7 @@ const Sales =({img})=>{
 
  const SalesProgress = () => {
    return (
-     <div className="sales-container bg-white h-[320px] p-4 rounded-md ">
+     <div className="sales-container bg-white h-[380px] p-4 rounded-md ">
        <div className="sales-heading-container flex justify-between p-2 mb-4">
          <h1 className='text-lg  font-semibold opacity-80  '>Sales Progress</h1>
          <img src="src/assets/Dots.png" alt="" className="object-contain" />

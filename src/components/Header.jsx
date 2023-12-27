@@ -29,7 +29,7 @@ const Header = () => {
       </div>
       <hr className="mt-2" />
       <div className="lower-container flex justify-between shadow-md">
-        <div className="left-container flex gap-16 p-4 px-6 items-center">
+        <div className="left-container flex gap-16 p-4 px-6 items-center ml-80">
           <p style={{ color: "#434349", fontWeight: 600 }}>Dashboard</p>
           <p
             style={{ backgroundColor: "#FFF4DE", color: "#FFA800" }}
